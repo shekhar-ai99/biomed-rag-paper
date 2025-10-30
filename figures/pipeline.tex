@@ -1,0 +1,38 @@
+% System pipeline architecture diagram using TikZ
+\begin{tikzpicture}[
+    node distance=2cm,
+    box/.style={rectangle, draw, fill=blue!20, text width=3cm, text centered, rounded corners, minimum height=1.2cm},
+    data/.style={rectangle, draw, fill=green!20, text width=2.5cm, text centered, minimum height=1cm},
+    process/.style={rectangle, draw, fill=orange!20, text width=3cm, text centered, rounded corners, minimum height=1.2cm},
+    arrow/.style={->, >=stealth, thick}
+]
+
+% Input layer
+\node[data] (query) {User Query};
+
+% Processing layer
+\node[box, below of=query] (embed) {Query Embedding};
+\node[process, below of=embed] (retriever) {Document Retriever};
+\node[data, below of=retriever] (docs) {Retrieved Documents};
+
+% Generation layer
+\node[process, below of=docs] (context) {Context Formation};
+\node[box, below of=context] (llm) {Large Language Model};
+\node[data, below of=llm] (response) {Generated Response};
+
+% Knowledge base (to the right)
+\node[data, right=3cm of retriever] (kb) {Biomedical Knowledge Base};
+
+% Arrows
+\draw[arrow] (query) -- (embed);
+\draw[arrow] (embed) -- (retriever);
+\draw[arrow] (retriever) -- (docs);
+\draw[arrow] (docs) -- (context);
+\draw[arrow] (context) -- (llm);
+\draw[arrow] (llm) -- (response);
+\draw[arrow] (kb) -- (retriever);
+
+% Labels on arrows
+\node[right, font=\small] at ($(retriever)!0.5!(kb)$) {Search};
+
+\end{tikzpicture}
