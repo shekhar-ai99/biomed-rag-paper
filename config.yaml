@@ -1,0 +1,38 @@
+seed: 42
+retriever:
+  top_k: 10
+  bm25_weight: 0.7
+  dense_weight: 0.3
+  faiss:
+    nlist: 64
+    nprobe: 10
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"  # fallback lightweight
+  biobert_model_name: "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb"
+explainability:
+  lig_steps: 50
+  rollout_layers: 12
+  heatmap_threshold: 0.5
+
+fact_checking:
+  nli_model_name: "roberta-large-mnli"
+  threshold_tau: 0.8
+
+trust:
+  weights:
+    C: 0.4
+    Tr: 0.3
+    F: 0.3
+
+training:
+  lr: 1e-5
+  epochs: 3
+  batch_size: 4
+  temperature: 0.7
+
+inference:
+  max_iterations: 3
+
+infra:
+  hipaa: true
+  differential_privacy_epsilon: 1.0
+  logging_level: "INFO"

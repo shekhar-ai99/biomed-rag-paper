@@ -1,0 +1,33 @@
+# Core ML/NLP
+torch==2.3.1
+transformers==4.44.2
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+rank-bm25==0.2.2
+captum==0.7.0
+
+# Data & viz
+pandas==2.2.2
+numpy==1.26.4
+seaborn==0.13.2
+matplotlib==3.9.0
+scikit-learn==1.5.1
+scipy==1.13.1
+
+# Evaluation & utils
+rouge-score==0.1.2
+evaluate==0.4.2
+optuna==3.6.1
+pyyaml==6.0.2
+huggingface_hub==0.24.6
+datasets==2.20.0
+
+# App & infra
+gradio==4.44.0
+fastapi==0.115.0
+uvicorn==0.30.6
+codecarbon==2.4.3
+
+# Testing
+pytest==8.3.2
+pytest-cov==5.0.0
