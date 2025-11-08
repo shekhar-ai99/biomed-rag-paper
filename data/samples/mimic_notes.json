@@ -1,0 +1,802 @@
+[
+  {
+    "subject_id": 10000,
+    "hadm_id": 20000,
+    "chartdate": "2020-11-23",
+    "category": "Discharge summary",
+    "text": "Patient admitted with cough and cough. Workup revealed elevated creatinine. Diagnosed with Pneumonia. Treated with mechanical ventilation and beta blocker. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 0
+  },
+  {
+    "subject_id": 10001,
+    "hadm_id": 20001,
+    "chartdate": "2020-04-22",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. T wave inversion noted. Findings suggestive of COPD.",
+    "row_id": 1
+  },
+  {
+    "subject_id": 10002,
+    "hadm_id": 20002,
+    "chartdate": "2020-07-12",
+    "category": "Discharge summary",
+    "text": "Patient admitted with edema and shortness of breath. Workup revealed ST elevation on ECG. Diagnosed with Heart failure. Treated with antibiotic and beta blocker. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 2
+  },
+  {
+    "subject_id": 10003,
+    "hadm_id": 20003,
+    "chartdate": "2020-09-30",
+    "category": "Radiology",
+    "text": "Chest X-ray shows leukocytosis. Consistent with Acute myocardial infarction. Recommend clinical correlation.",
+    "row_id": 3
+  },
+  {
+    "subject_id": 10004,
+    "hadm_id": 20004,
+    "chartdate": "2020-11-25",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. ST depression noted. Findings suggestive of Anoxic brain damage.",
+    "row_id": 4
+  },
+  {
+    "subject_id": 10005,
+    "hadm_id": 20005,
+    "chartdate": "2020-12-14",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. T wave inversion noted. Findings suggestive of Pneumonia.",
+    "row_id": 5
+  },
+  {
+    "subject_id": 10006,
+    "hadm_id": 20006,
+    "chartdate": "2020-09-13",
+    "category": "Radiology",
+    "text": "Chest X-ray shows metabolic acidosis. Consistent with COPD. Recommend clinical correlation.",
+    "row_id": 6
+  },
+  {
+    "subject_id": 10007,
+    "hadm_id": 20007,
+    "chartdate": "2020-09-05",
+    "category": "Discharge summary",
+    "text": "Patient admitted with hypotension and fever. Workup revealed infiltrate on chest X-ray. Diagnosed with Anoxic brain damage. Treated with dialysis and fluid resuscitation. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 7
+  },
+  {
+    "subject_id": 10008,
+    "hadm_id": 20008,
+    "chartdate": "2020-04-25",
+    "category": "Discharge summary",
+    "text": "Patient admitted with cough and tachycardia. Workup revealed leukocytosis. Diagnosed with Acute myocardial infarction. Treated with beta blocker and aspirin. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 8
+  },
+  {
+    "subject_id": 10009,
+    "hadm_id": 20009,
+    "chartdate": "2020-05-04",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. Normal intervals noted. Findings suggestive of COPD.",
+    "row_id": 9
+  },
+  {
+    "subject_id": 10010,
+    "hadm_id": 20010,
+    "chartdate": "2020-03-12",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. ST depression noted. Findings suggestive of Essential hypertension.",
+    "row_id": 10
+  },
+  {
+    "subject_id": 10011,
+    "hadm_id": 20011,
+    "chartdate": "2020-07-13",
+    "category": "Discharge summary",
+    "text": "Patient admitted with fatigue and vomiting. Workup revealed elevated BNP. Diagnosed with Sepsis, unspecified. Treated with ACE inhibitor and diuretic. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 11
+  },
+  {
+    "subject_id": 10012,
+    "hadm_id": 20012,
+    "chartdate": "2020-01-30",
+    "category": "Physician",
+    "text": "Assessment: Gastrointestinal hemorrhage. Patient presenting with tachycardia and elevated BNP. Plan: Continue oxygen therapy, monitor closely, consider antibiotic if no improvement.",
+    "row_id": 12
+  },
+  {
+    "subject_id": 10013,
+    "hadm_id": 20013,
+    "chartdate": "2020-12-08",
+    "category": "Nursing/other",
+    "text": "Patient reports tachycardia. Vital signs stable. Administered dialysis. Patient resting comfortably.",
+    "row_id": 13
+  },
+  {
+    "subject_id": 10014,
+    "hadm_id": 20014,
+    "chartdate": "2020-05-05",
+    "category": "Nursing/other",
+    "text": "Patient reports dyspnea. Vital signs stable. Administered beta blocker. Patient resting comfortably.",
+    "row_id": 14
+  },
+  {
+    "subject_id": 10015,
+    "hadm_id": 20015,
+    "chartdate": "2020-11-05",
+    "category": "Radiology",
+    "text": "Chest X-ray shows infiltrate on chest X-ray. Consistent with Acute myocardial infarction. Recommend clinical correlation.",
+    "row_id": 15
+  },
+  {
+    "subject_id": 10016,
+    "hadm_id": 20016,
+    "chartdate": "2020-02-08",
+    "category": "Radiology",
+    "text": "Chest X-ray shows pleural effusion. Consistent with Heart failure. Recommend clinical correlation.",
+    "row_id": 16
+  },
+  {
+    "subject_id": 10017,
+    "hadm_id": 20017,
+    "chartdate": "2020-03-31",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. ST depression noted. Findings suggestive of Sepsis, unspecified.",
+    "row_id": 17
+  },
+  {
+    "subject_id": 10018,
+    "hadm_id": 20018,
+    "chartdate": "2020-07-23",
+    "category": "Nursing/other",
+    "text": "Patient reports fatigue. Vital signs stable. Administered ACE inhibitor. Patient resting comfortably.",
+    "row_id": 18
+  },
+  {
+    "subject_id": 10019,
+    "hadm_id": 20019,
+    "chartdate": "2020-11-06",
+    "category": "Physician",
+    "text": "Assessment: COPD. Patient presenting with tachycardia and pleural effusion. Plan: Continue beta blocker, monitor closely, consider antibiotic if no improvement.",
+    "row_id": 19
+  },
+  {
+    "subject_id": 10020,
+    "hadm_id": 20020,
+    "chartdate": "2020-12-07",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. ST elevation noted. Findings suggestive of Chronic kidney disease.",
+    "row_id": 20
+  },
+  {
+    "subject_id": 10021,
+    "hadm_id": 20021,
+    "chartdate": "2020-08-26",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. T wave inversion noted. Findings suggestive of Heart failure.",
+    "row_id": 21
+  },
+  {
+    "subject_id": 10022,
+    "hadm_id": 20022,
+    "chartdate": "2020-11-08",
+    "category": "Discharge summary",
+    "text": "Patient admitted with edema and edema. Workup revealed cardiomegaly. Diagnosed with Sepsis, unspecified. Treated with fluid resuscitation and diuretic. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 22
+  },
+  {
+    "subject_id": 10023,
+    "hadm_id": 20023,
+    "chartdate": "2020-08-21",
+    "category": "Radiology",
+    "text": "Chest X-ray shows elevated BNP. Consistent with Sepsis, unspecified. Recommend clinical correlation.",
+    "row_id": 23
+  },
+  {
+    "subject_id": 10024,
+    "hadm_id": 20024,
+    "chartdate": "2020-08-13",
+    "category": "Discharge summary",
+    "text": "Patient admitted with nausea and nausea. Workup revealed elevated BNP. Diagnosed with Pneumonia. Treated with ACE inhibitor and ACE inhibitor. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 24
+  },
+  {
+    "subject_id": 10025,
+    "hadm_id": 20025,
+    "chartdate": "2020-02-01",
+    "category": "Radiology",
+    "text": "Chest X-ray shows infiltrate on chest X-ray. Consistent with Essential hypertension. Recommend clinical correlation.",
+    "row_id": 25
+  },
+  {
+    "subject_id": 10026,
+    "hadm_id": 20026,
+    "chartdate": "2020-06-21",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. Normal intervals noted. Findings suggestive of Type 2 diabetes mellitus.",
+    "row_id": 26
+  },
+  {
+    "subject_id": 10027,
+    "hadm_id": 20027,
+    "chartdate": "2020-06-16",
+    "category": "Nursing/other",
+    "text": "Patient reports dyspnea. Vital signs stable. Administered beta blocker. Patient resting comfortably.",
+    "row_id": 27
+  },
+  {
+    "subject_id": 10028,
+    "hadm_id": 20028,
+    "chartdate": "2020-03-05",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. ST elevation noted. Findings suggestive of Chronic kidney disease.",
+    "row_id": 28
+  },
+  {
+    "subject_id": 10029,
+    "hadm_id": 20029,
+    "chartdate": "2020-10-30",
+    "category": "Radiology",
+    "text": "Chest X-ray shows elevated BNP. Consistent with Essential hypertension. Recommend clinical correlation.",
+    "row_id": 29
+  },
+  {
+    "subject_id": 10030,
+    "hadm_id": 20030,
+    "chartdate": "2020-12-28",
+    "category": "Radiology",
+    "text": "Chest X-ray shows cardiomegaly. Consistent with Gastrointestinal hemorrhage. Recommend clinical correlation.",
+    "row_id": 30
+  },
+  {
+    "subject_id": 10031,
+    "hadm_id": 20031,
+    "chartdate": "2020-06-21",
+    "category": "Discharge summary",
+    "text": "Patient admitted with altered mental status and cough. Workup revealed pleural effusion. Diagnosed with Chronic kidney disease. Treated with oxygen therapy and antibiotic. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 31
+  },
+  {
+    "subject_id": 10032,
+    "hadm_id": 20032,
+    "chartdate": "2020-12-19",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. T wave inversion noted. Findings suggestive of Essential hypertension.",
+    "row_id": 32
+  },
+  {
+    "subject_id": 10033,
+    "hadm_id": 20033,
+    "chartdate": "2020-05-08",
+    "category": "Radiology",
+    "text": "Chest X-ray shows consolidation. Consistent with Chronic kidney disease. Recommend clinical correlation.",
+    "row_id": 33
+  },
+  {
+    "subject_id": 10034,
+    "hadm_id": 20034,
+    "chartdate": "2020-01-08",
+    "category": "Physician",
+    "text": "Assessment: COPD. Patient presenting with fever and ST elevation on ECG. Plan: Continue antibiotic, monitor closely, consider vasopressor support if no improvement.",
+    "row_id": 34
+  },
+  {
+    "subject_id": 10035,
+    "hadm_id": 20035,
+    "chartdate": "2020-02-03",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. ST depression noted. Findings suggestive of Anoxic brain damage.",
+    "row_id": 35
+  },
+  {
+    "subject_id": 10036,
+    "hadm_id": 20036,
+    "chartdate": "2020-06-05",
+    "category": "Physician",
+    "text": "Assessment: Gastrointestinal hemorrhage. Patient presenting with altered mental status and infiltrate on chest X-ray. Plan: Continue aspirin, monitor closely, consider diuretic if no improvement.",
+    "row_id": 36
+  },
+  {
+    "subject_id": 10037,
+    "hadm_id": 20037,
+    "chartdate": "2020-12-27",
+    "category": "Nursing/other",
+    "text": "Patient reports dyspnea. Vital signs stable. Administered ACE inhibitor. Patient resting comfortably.",
+    "row_id": 37
+  },
+  {
+    "subject_id": 10038,
+    "hadm_id": 20038,
+    "chartdate": "2020-08-12",
+    "category": "Discharge summary",
+    "text": "Patient admitted with fatigue and hypotension. Workup revealed elevated BNP. Diagnosed with Sepsis, unspecified. Treated with vasopressor support and beta blocker. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 38
+  },
+  {
+    "subject_id": 10039,
+    "hadm_id": 20039,
+    "chartdate": "2020-10-22",
+    "category": "Discharge summary",
+    "text": "Patient admitted with hypotension and dyspnea. Workup revealed consolidation. Diagnosed with Chronic kidney disease. Treated with ACE inhibitor and dialysis. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 39
+  },
+  {
+    "subject_id": 10040,
+    "hadm_id": 20040,
+    "chartdate": "2020-12-21",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. Normal intervals noted. Findings suggestive of Essential hypertension.",
+    "row_id": 40
+  },
+  {
+    "subject_id": 10041,
+    "hadm_id": 20041,
+    "chartdate": "2020-11-16",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. ST depression noted. Findings suggestive of Chronic kidney disease.",
+    "row_id": 41
+  },
+  {
+    "subject_id": 10042,
+    "hadm_id": 20042,
+    "chartdate": "2020-02-28",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus tachycardia. ST depression noted. Findings suggestive of Essential hypertension.",
+    "row_id": 42
+  },
+  {
+    "subject_id": 10043,
+    "hadm_id": 20043,
+    "chartdate": "2020-07-31",
+    "category": "Nursing/other",
+    "text": "Patient reports altered mental status. Vital signs stable. Administered oxygen therapy. Patient resting comfortably.",
+    "row_id": 43
+  },
+  {
+    "subject_id": 10044,
+    "hadm_id": 20044,
+    "chartdate": "2020-07-29",
+    "category": "Discharge summary",
+    "text": "Patient admitted with vomiting and dyspnea. Workup revealed elevated creatinine. Diagnosed with Sepsis, unspecified. Treated with aspirin and ACE inhibitor. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 44
+  },
+  {
+    "subject_id": 10045,
+    "hadm_id": 20045,
+    "chartdate": "2020-08-28",
+    "category": "Nursing/other",
+    "text": "Patient reports chest pain. Vital signs stable. Administered dialysis. Patient resting comfortably.",
+    "row_id": 45
+  },
+  {
+    "subject_id": 10046,
+    "hadm_id": 20046,
+    "chartdate": "2020-08-15",
+    "category": "Radiology",
+    "text": "Chest X-ray shows cardiomegaly. Consistent with Type 2 diabetes mellitus. Recommend clinical correlation.",
+    "row_id": 46
+  },
+  {
+    "subject_id": 10047,
+    "hadm_id": 20047,
+    "chartdate": "2020-09-11",
+    "category": "Physician",
+    "text": "Assessment: COPD. Patient presenting with tachycardia and infiltrate on chest X-ray. Plan: Continue fluid resuscitation, monitor closely, consider antibiotic if no improvement.",
+    "row_id": 47
+  },
+  {
+    "subject_id": 10048,
+    "hadm_id": 20048,
+    "chartdate": "2020-06-03",
+    "category": "Radiology",
+    "text": "Chest X-ray shows infiltrate on chest X-ray. Consistent with Acute myocardial infarction. Recommend clinical correlation.",
+    "row_id": 48
+  },
+  {
+    "subject_id": 10049,
+    "hadm_id": 20049,
+    "chartdate": "2020-04-22",
+    "category": "Radiology",
+    "text": "Chest X-ray shows metabolic acidosis. Consistent with COPD. Recommend clinical correlation.",
+    "row_id": 49
+  },
+  {
+    "subject_id": 10050,
+    "hadm_id": 20050,
+    "chartdate": "2020-09-28",
+    "category": "Physician",
+    "text": "Assessment: COPD. Patient presenting with shortness of breath and cardiomegaly. Plan: Continue aspirin, monitor closely, consider antibiotic if no improvement.",
+    "row_id": 50
+  },
+  {
+    "subject_id": 10051,
+    "hadm_id": 20051,
+    "chartdate": "2020-08-20",
+    "category": "Nursing/other",
+    "text": "Patient reports tachycardia. Vital signs stable. Administered diuretic. Patient resting comfortably.",
+    "row_id": 51
+  },
+  {
+    "subject_id": 10052,
+    "hadm_id": 20052,
+    "chartdate": "2020-01-20",
+    "category": "Nursing/other",
+    "text": "Patient reports tachycardia. Vital signs stable. Administered ACE inhibitor. Patient resting comfortably.",
+    "row_id": 52
+  },
+  {
+    "subject_id": 10053,
+    "hadm_id": 20053,
+    "chartdate": "2020-08-15",
+    "category": "ECG",
+    "text": "ECG demonstrates atrial fibrillation. ST elevation noted. Findings suggestive of Heart failure.",
+    "row_id": 53
+  },
+  {
+    "subject_id": 10054,
+    "hadm_id": 20054,
+    "chartdate": "2020-10-16",
+    "category": "Radiology",
+    "text": "Chest X-ray shows metabolic acidosis. Consistent with Acute myocardial infarction. Recommend clinical correlation.",
+    "row_id": 54
+  },
+  {
+    "subject_id": 10055,
+    "hadm_id": 20055,
+    "chartdate": "2020-05-01",
+    "category": "Physician",
+    "text": "Assessment: Anoxic brain damage. Patient presenting with cough and metabolic acidosis. Plan: Continue aspirin, monitor closely, consider mechanical ventilation if no improvement.",
+    "row_id": 55
+  },
+  {
+    "subject_id": 10056,
+    "hadm_id": 20056,
+    "chartdate": "2020-08-22",
+    "category": "Discharge summary",
+    "text": "Patient admitted with vomiting and vomiting. Workup revealed troponin elevation. Diagnosed with Sepsis, unspecified. Treated with vasopressor support and beta blocker. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 56
+  },
+  {
+    "subject_id": 10057,
+    "hadm_id": 20057,
+    "chartdate": "2020-11-01",
+    "category": "Physician",
+    "text": "Assessment: Essential hypertension. Patient presenting with edema and troponin elevation. Plan: Continue oxygen therapy, monitor closely, consider fluid resuscitation if no improvement.",
+    "row_id": 57
+  },
+  {
+    "subject_id": 10058,
+    "hadm_id": 20058,
+    "chartdate": "2020-12-06",
+    "category": "Nursing/other",
+    "text": "Patient reports hypotension. Vital signs stable. Administered aspirin. Patient resting comfortably.",
+    "row_id": 58
+  },
+  {
+    "subject_id": 10059,
+    "hadm_id": 20059,
+    "chartdate": "2020-06-29",
+    "category": "Discharge summary",
+    "text": "Patient admitted with dyspnea and altered mental status. Workup revealed leukocytosis. Diagnosed with Pneumonia. Treated with oxygen therapy and mechanical ventilation. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 59
+  },
+  {
+    "subject_id": 10060,
+    "hadm_id": 20060,
+    "chartdate": "2020-11-07",
+    "category": "Nursing/other",
+    "text": "Patient reports tachycardia. Vital signs stable. Administered fluid resuscitation. Patient resting comfortably.",
+    "row_id": 60
+  },
+  {
+    "subject_id": 10061,
+    "hadm_id": 20061,
+    "chartdate": "2020-08-20",
+    "category": "Nursing/other",
+    "text": "Patient reports fever. Vital signs stable. Administered dialysis. Patient resting comfortably.",
+    "row_id": 61
+  },
+  {
+    "subject_id": 10062,
+    "hadm_id": 20062,
+    "chartdate": "2020-07-31",
+    "category": "Nursing/other",
+    "text": "Patient reports dyspnea. Vital signs stable. Administered antibiotic. Patient resting comfortably.",
+    "row_id": 62
+  },
+  {
+    "subject_id": 10063,
+    "hadm_id": 20063,
+    "chartdate": "2020-03-11",
+    "category": "Nursing/other",
+    "text": "Patient reports hypotension. Vital signs stable. Administered mechanical ventilation. Patient resting comfortably.",
+    "row_id": 63
+  },
+  {
+    "subject_id": 10064,
+    "hadm_id": 20064,
+    "chartdate": "2020-02-09",
+    "category": "Nursing/other",
+    "text": "Patient reports edema. Vital signs stable. Administered oxygen therapy. Patient resting comfortably.",
+    "row_id": 64
+  },
+  {
+    "subject_id": 10065,
+    "hadm_id": 20065,
+    "chartdate": "2020-07-21",
+    "category": "Nursing/other",
+    "text": "Patient reports syncope. Vital signs stable. Administered oxygen therapy. Patient resting comfortably.",
+    "row_id": 65
+  },
+  {
+    "subject_id": 10066,
+    "hadm_id": 20066,
+    "chartdate": "2020-12-01",
+    "category": "Discharge summary",
+    "text": "Patient admitted with altered mental status and syncope. Workup revealed metabolic acidosis. Diagnosed with Gastrointestinal hemorrhage. Treated with vasopressor support and dialysis. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 66
+  },
+  {
+    "subject_id": 10067,
+    "hadm_id": 20067,
+    "chartdate": "2020-06-29",
+    "category": "Physician",
+    "text": "Assessment: Gastrointestinal hemorrhage. Patient presenting with hypotension and ST elevation on ECG. Plan: Continue vasopressor support, monitor closely, consider dialysis if no improvement.",
+    "row_id": 67
+  },
+  {
+    "subject_id": 10068,
+    "hadm_id": 20068,
+    "chartdate": "2020-06-13",
+    "category": "Physician",
+    "text": "Assessment: COPD. Patient presenting with fatigue and cardiomegaly. Plan: Continue fluid resuscitation, monitor closely, consider oxygen therapy if no improvement.",
+    "row_id": 68
+  },
+  {
+    "subject_id": 10069,
+    "hadm_id": 20069,
+    "chartdate": "2020-11-19",
+    "category": "Nursing/other",
+    "text": "Patient reports shortness of breath. Vital signs stable. Administered dialysis. Patient resting comfortably.",
+    "row_id": 69
+  },
+  {
+    "subject_id": 10070,
+    "hadm_id": 20070,
+    "chartdate": "2020-06-07",
+    "category": "Physician",
+    "text": "Assessment: Sepsis, unspecified. Patient presenting with cough and leukocytosis. Plan: Continue ACE inhibitor, monitor closely, consider ACE inhibitor if no improvement.",
+    "row_id": 70
+  },
+  {
+    "subject_id": 10071,
+    "hadm_id": 20071,
+    "chartdate": "2020-05-31",
+    "category": "Discharge summary",
+    "text": "Patient admitted with dyspnea and nausea. Workup revealed metabolic acidosis. Diagnosed with Type 2 diabetes mellitus. Treated with dialysis and fluid resuscitation. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 71
+  },
+  {
+    "subject_id": 10072,
+    "hadm_id": 20072,
+    "chartdate": "2020-08-17",
+    "category": "Radiology",
+    "text": "Chest X-ray shows cardiomegaly. Consistent with Anoxic brain damage. Recommend clinical correlation.",
+    "row_id": 72
+  },
+  {
+    "subject_id": 10073,
+    "hadm_id": 20073,
+    "chartdate": "2020-12-30",
+    "category": "Physician",
+    "text": "Assessment: Essential hypertension. Patient presenting with chest pain and cardiomegaly. Plan: Continue mechanical ventilation, monitor closely, consider oxygen therapy if no improvement.",
+    "row_id": 73
+  },
+  {
+    "subject_id": 10074,
+    "hadm_id": 20074,
+    "chartdate": "2020-07-16",
+    "category": "Discharge summary",
+    "text": "Patient admitted with nausea and shortness of breath. Workup revealed pleural effusion. Diagnosed with Type 2 diabetes mellitus. Treated with ACE inhibitor and aspirin. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 74
+  },
+  {
+    "subject_id": 10075,
+    "hadm_id": 20075,
+    "chartdate": "2020-03-17",
+    "category": "Physician",
+    "text": "Assessment: Sepsis, unspecified. Patient presenting with tachycardia and elevated BNP. Plan: Continue aspirin, monitor closely, consider mechanical ventilation if no improvement.",
+    "row_id": 75
+  },
+  {
+    "subject_id": 10076,
+    "hadm_id": 20076,
+    "chartdate": "2020-03-14",
+    "category": "Nursing/other",
+    "text": "Patient reports hypotension. Vital signs stable. Administered mechanical ventilation. Patient resting comfortably.",
+    "row_id": 76
+  },
+  {
+    "subject_id": 10077,
+    "hadm_id": 20077,
+    "chartdate": "2020-07-01",
+    "category": "Discharge summary",
+    "text": "Patient admitted with syncope and tachycardia. Workup revealed pleural effusion. Diagnosed with Type 2 diabetes mellitus. Treated with aspirin and oxygen therapy. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 77
+  },
+  {
+    "subject_id": 10078,
+    "hadm_id": 20078,
+    "chartdate": "2020-05-30",
+    "category": "Radiology",
+    "text": "Chest X-ray shows consolidation. Consistent with Chronic kidney disease. Recommend clinical correlation.",
+    "row_id": 78
+  },
+  {
+    "subject_id": 10079,
+    "hadm_id": 20079,
+    "chartdate": "2020-08-13",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. T wave inversion noted. Findings suggestive of COPD.",
+    "row_id": 79
+  },
+  {
+    "subject_id": 10080,
+    "hadm_id": 20080,
+    "chartdate": "2020-11-04",
+    "category": "ECG",
+    "text": "ECG demonstrates atrial fibrillation. ST depression noted. Findings suggestive of Acute myocardial infarction.",
+    "row_id": 80
+  },
+  {
+    "subject_id": 10081,
+    "hadm_id": 20081,
+    "chartdate": "2020-04-30",
+    "category": "Nursing/other",
+    "text": "Patient reports fever. Vital signs stable. Administered mechanical ventilation. Patient resting comfortably.",
+    "row_id": 81
+  },
+  {
+    "subject_id": 10082,
+    "hadm_id": 20082,
+    "chartdate": "2020-09-22",
+    "category": "ECG",
+    "text": "ECG demonstrates atrial fibrillation. ST depression noted. Findings suggestive of Sepsis, unspecified.",
+    "row_id": 82
+  },
+  {
+    "subject_id": 10083,
+    "hadm_id": 20083,
+    "chartdate": "2020-06-02",
+    "category": "Radiology",
+    "text": "Chest X-ray shows pleural effusion. Consistent with Anoxic brain damage. Recommend clinical correlation.",
+    "row_id": 83
+  },
+  {
+    "subject_id": 10084,
+    "hadm_id": 20084,
+    "chartdate": "2020-07-28",
+    "category": "Physician",
+    "text": "Assessment: Essential hypertension. Patient presenting with hypotension and ST elevation on ECG. Plan: Continue beta blocker, monitor closely, consider mechanical ventilation if no improvement.",
+    "row_id": 84
+  },
+  {
+    "subject_id": 10085,
+    "hadm_id": 20085,
+    "chartdate": "2020-06-04",
+    "category": "Radiology",
+    "text": "Chest X-ray shows infiltrate on chest X-ray. Consistent with Heart failure. Recommend clinical correlation.",
+    "row_id": 85
+  },
+  {
+    "subject_id": 10086,
+    "hadm_id": 20086,
+    "chartdate": "2020-03-28",
+    "category": "Physician",
+    "text": "Assessment: Sepsis, unspecified. Patient presenting with cough and cardiomegaly. Plan: Continue antibiotic, monitor closely, consider vasopressor support if no improvement.",
+    "row_id": 86
+  },
+  {
+    "subject_id": 10087,
+    "hadm_id": 20087,
+    "chartdate": "2020-12-18",
+    "category": "Discharge summary",
+    "text": "Patient admitted with vomiting and altered mental status. Workup revealed consolidation. Diagnosed with Heart failure. Treated with oxygen therapy and dialysis. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 87
+  },
+  {
+    "subject_id": 10088,
+    "hadm_id": 20088,
+    "chartdate": "2020-06-12",
+    "category": "Radiology",
+    "text": "Chest X-ray shows cardiomegaly. Consistent with Gastrointestinal hemorrhage. Recommend clinical correlation.",
+    "row_id": 88
+  },
+  {
+    "subject_id": 10089,
+    "hadm_id": 20089,
+    "chartdate": "2020-09-12",
+    "category": "Nursing/other",
+    "text": "Patient reports chest pain. Vital signs stable. Administered antibiotic. Patient resting comfortably.",
+    "row_id": 89
+  },
+  {
+    "subject_id": 10090,
+    "hadm_id": 20090,
+    "chartdate": "2020-07-06",
+    "category": "ECG",
+    "text": "ECG demonstrates atrial fibrillation. T wave inversion noted. Findings suggestive of Gastrointestinal hemorrhage.",
+    "row_id": 90
+  },
+  {
+    "subject_id": 10091,
+    "hadm_id": 20091,
+    "chartdate": "2020-06-22",
+    "category": "Physician",
+    "text": "Assessment: Gastrointestinal hemorrhage. Patient presenting with hypotension and elevated creatinine. Plan: Continue oxygen therapy, monitor closely, consider dialysis if no improvement.",
+    "row_id": 91
+  },
+  {
+    "subject_id": 10092,
+    "hadm_id": 20092,
+    "chartdate": "2020-03-24",
+    "category": "ECG",
+    "text": "ECG demonstrates atrial fibrillation. ST elevation noted. Findings suggestive of Gastrointestinal hemorrhage.",
+    "row_id": 92
+  },
+  {
+    "subject_id": 10093,
+    "hadm_id": 20093,
+    "chartdate": "2020-10-25",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. ST elevation noted. Findings suggestive of Sepsis, unspecified.",
+    "row_id": 93
+  },
+  {
+    "subject_id": 10094,
+    "hadm_id": 20094,
+    "chartdate": "2020-09-13",
+    "category": "Physician",
+    "text": "Assessment: COPD. Patient presenting with dyspnea and infiltrate on chest X-ray. Plan: Continue dialysis, monitor closely, consider vasopressor support if no improvement.",
+    "row_id": 94
+  },
+  {
+    "subject_id": 10095,
+    "hadm_id": 20095,
+    "chartdate": "2020-05-06",
+    "category": "Nursing/other",
+    "text": "Patient reports syncope. Vital signs stable. Administered antibiotic. Patient resting comfortably.",
+    "row_id": 95
+  },
+  {
+    "subject_id": 10096,
+    "hadm_id": 20096,
+    "chartdate": "2020-01-22",
+    "category": "Nursing/other",
+    "text": "Patient reports edema. Vital signs stable. Administered antibiotic. Patient resting comfortably.",
+    "row_id": 96
+  },
+  {
+    "subject_id": 10097,
+    "hadm_id": 20097,
+    "chartdate": "2020-11-22",
+    "category": "Radiology",
+    "text": "Chest X-ray shows elevated BNP. Consistent with Type 2 diabetes mellitus. Recommend clinical correlation.",
+    "row_id": 97
+  },
+  {
+    "subject_id": 10098,
+    "hadm_id": 20098,
+    "chartdate": "2020-09-30",
+    "category": "Discharge summary",
+    "text": "Patient admitted with fever and chest pain. Workup revealed cardiomegaly. Diagnosed with Sepsis, unspecified. Treated with ACE inhibitor and antibiotic. Patient improved and discharged in stable condition. Follow-up in 2 weeks recommended.",
+    "row_id": 98
+  },
+  {
+    "subject_id": 10099,
+    "hadm_id": 20099,
+    "chartdate": "2020-09-15",
+    "category": "ECG",
+    "text": "ECG demonstrates sinus rhythm. Normal intervals noted. Findings suggestive of Essential hypertension.",
+    "row_id": 99
+  }
+]

@@ -5,8 +5,13 @@ import random
 from dataclasses import dataclass
 from typing import Any, Dict
 
-import numpy as np
-import yaml
+# Optional heavy deps (numpy, yaml) are guarded to keep tests lightweight.
+try:  # pragma: no cover
+    import numpy as np  # type: ignore
+except Exception:  # pragma: no cover
+    np = None  # type: ignore
+
+yaml = None  # loaded lazily
 
 
 @dataclass
@@ -15,6 +20,13 @@ class Config:
 
     @staticmethod
     def load(path: str) -> "Config":
+        global yaml
+        if yaml is None:
+            try:  # pragma: no cover
+                import yaml as _yaml  # type: ignore
+                yaml = _yaml
+            except Exception as e:  # pragma: no cover
+                raise ImportError("pyyaml required; install with `pip install pyyaml`.") from e
         with open(path, "r") as f:
             return Config(yaml.safe_load(f))
 
@@ -24,12 +36,16 @@ class Config:
 
 def set_seed(seed: int = 42):
     random.seed(seed)
-    np.random.seed(seed)
+    if np is not None:
+        try:
+            np.random.seed(seed)
+        except Exception:
+            pass
     try:
-        import torch
-
+        import torch  # type: ignore
         torch.manual_seed(seed)
-        torch.cuda.manual_seed_all(seed)
+        if hasattr(torch, "cuda"):
+            torch.cuda.manual_seed_all(seed)  # pragma: no cover
     except Exception:
         pass
 

@@ -1,0 +1,1374 @@
+[
+  {
+    "subject_id": 10000,
+    "hadm_id": 20000,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10001,
+    "hadm_id": 20001,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10001,
+    "hadm_id": 20001,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10001,
+    "hadm_id": 20001,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10002,
+    "hadm_id": 20002,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10002,
+    "hadm_id": 20002,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10002,
+    "hadm_id": 20002,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10003,
+    "hadm_id": 20003,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10004,
+    "hadm_id": 20004,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10005,
+    "hadm_id": 20005,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10005,
+    "hadm_id": 20005,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10005,
+    "hadm_id": 20005,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10006,
+    "hadm_id": 20006,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10006,
+    "hadm_id": 20006,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10006,
+    "hadm_id": 20006,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10007,
+    "hadm_id": 20007,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10007,
+    "hadm_id": 20007,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10007,
+    "hadm_id": 20007,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10008,
+    "hadm_id": 20008,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10008,
+    "hadm_id": 20008,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10009,
+    "hadm_id": 20009,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10009,
+    "hadm_id": 20009,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10010,
+    "hadm_id": 20010,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10011,
+    "hadm_id": 20011,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10011,
+    "hadm_id": 20011,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10012,
+    "hadm_id": 20012,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10013,
+    "hadm_id": 20013,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10014,
+    "hadm_id": 20014,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10014,
+    "hadm_id": 20014,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10015,
+    "hadm_id": 20015,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10015,
+    "hadm_id": 20015,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10015,
+    "hadm_id": 20015,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10016,
+    "hadm_id": 20016,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10016,
+    "hadm_id": 20016,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10016,
+    "hadm_id": 20016,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10017,
+    "hadm_id": 20017,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10018,
+    "hadm_id": 20018,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10018,
+    "hadm_id": 20018,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10019,
+    "hadm_id": 20019,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10020,
+    "hadm_id": 20020,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10020,
+    "hadm_id": 20020,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10021,
+    "hadm_id": 20021,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10021,
+    "hadm_id": 20021,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10022,
+    "hadm_id": 20022,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10022,
+    "hadm_id": 20022,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10023,
+    "hadm_id": 20023,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10023,
+    "hadm_id": 20023,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10024,
+    "hadm_id": 20024,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10024,
+    "hadm_id": 20024,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10024,
+    "hadm_id": 20024,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10025,
+    "hadm_id": 20025,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10025,
+    "hadm_id": 20025,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10026,
+    "hadm_id": 20026,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10026,
+    "hadm_id": 20026,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10026,
+    "hadm_id": 20026,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10027,
+    "hadm_id": 20027,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10027,
+    "hadm_id": 20027,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10028,
+    "hadm_id": 20028,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10028,
+    "hadm_id": 20028,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10028,
+    "hadm_id": 20028,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10029,
+    "hadm_id": 20029,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10030,
+    "hadm_id": 20030,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10030,
+    "hadm_id": 20030,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10031,
+    "hadm_id": 20031,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10031,
+    "hadm_id": 20031,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10032,
+    "hadm_id": 20032,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10032,
+    "hadm_id": 20032,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10032,
+    "hadm_id": 20032,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10033,
+    "hadm_id": 20033,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10034,
+    "hadm_id": 20034,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10035,
+    "hadm_id": 20035,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10035,
+    "hadm_id": 20035,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10036,
+    "hadm_id": 20036,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10036,
+    "hadm_id": 20036,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10036,
+    "hadm_id": 20036,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10037,
+    "hadm_id": 20037,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10037,
+    "hadm_id": 20037,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10037,
+    "hadm_id": 20037,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10038,
+    "hadm_id": 20038,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10038,
+    "hadm_id": 20038,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10039,
+    "hadm_id": 20039,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10040,
+    "hadm_id": 20040,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10040,
+    "hadm_id": 20040,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10041,
+    "hadm_id": 20041,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10042,
+    "hadm_id": 20042,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10043,
+    "hadm_id": 20043,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10043,
+    "hadm_id": 20043,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10043,
+    "hadm_id": 20043,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10044,
+    "hadm_id": 20044,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10044,
+    "hadm_id": 20044,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10045,
+    "hadm_id": 20045,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10045,
+    "hadm_id": 20045,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10046,
+    "hadm_id": 20046,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10046,
+    "hadm_id": 20046,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10046,
+    "hadm_id": 20046,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10047,
+    "hadm_id": 20047,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10048,
+    "hadm_id": 20048,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10048,
+    "hadm_id": 20048,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10049,
+    "hadm_id": 20049,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10049,
+    "hadm_id": 20049,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10049,
+    "hadm_id": 20049,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10050,
+    "hadm_id": 20050,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10050,
+    "hadm_id": 20050,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10051,
+    "hadm_id": 20051,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10051,
+    "hadm_id": 20051,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10051,
+    "hadm_id": 20051,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10052,
+    "hadm_id": 20052,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10052,
+    "hadm_id": 20052,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10053,
+    "hadm_id": 20053,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10054,
+    "hadm_id": 20054,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10055,
+    "hadm_id": 20055,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10055,
+    "hadm_id": 20055,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10056,
+    "hadm_id": 20056,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10057,
+    "hadm_id": 20057,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10057,
+    "hadm_id": 20057,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10058,
+    "hadm_id": 20058,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10058,
+    "hadm_id": 20058,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10059,
+    "hadm_id": 20059,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10059,
+    "hadm_id": 20059,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10059,
+    "hadm_id": 20059,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10060,
+    "hadm_id": 20060,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10061,
+    "hadm_id": 20061,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10062,
+    "hadm_id": 20062,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10063,
+    "hadm_id": 20063,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10063,
+    "hadm_id": 20063,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10064,
+    "hadm_id": 20064,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10064,
+    "hadm_id": 20064,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10064,
+    "hadm_id": 20064,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10065,
+    "hadm_id": 20065,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10065,
+    "hadm_id": 20065,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10065,
+    "hadm_id": 20065,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10066,
+    "hadm_id": 20066,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10067,
+    "hadm_id": 20067,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10068,
+    "hadm_id": 20068,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10068,
+    "hadm_id": 20068,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10069,
+    "hadm_id": 20069,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10070,
+    "hadm_id": 20070,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10070,
+    "hadm_id": 20070,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10071,
+    "hadm_id": 20071,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10071,
+    "hadm_id": 20071,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10071,
+    "hadm_id": 20071,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10072,
+    "hadm_id": 20072,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10072,
+    "hadm_id": 20072,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10072,
+    "hadm_id": 20072,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10073,
+    "hadm_id": 20073,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10074,
+    "hadm_id": 20074,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10074,
+    "hadm_id": 20074,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10075,
+    "hadm_id": 20075,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10075,
+    "hadm_id": 20075,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10075,
+    "hadm_id": 20075,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10076,
+    "hadm_id": 20076,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10076,
+    "hadm_id": 20076,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10077,
+    "hadm_id": 20077,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10077,
+    "hadm_id": 20077,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10078,
+    "hadm_id": 20078,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10079,
+    "hadm_id": 20079,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10079,
+    "hadm_id": 20079,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10080,
+    "hadm_id": 20080,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10081,
+    "hadm_id": 20081,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10081,
+    "hadm_id": 20081,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10082,
+    "hadm_id": 20082,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10082,
+    "hadm_id": 20082,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10082,
+    "hadm_id": 20082,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10083,
+    "hadm_id": 20083,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10083,
+    "hadm_id": 20083,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10083,
+    "hadm_id": 20083,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10084,
+    "hadm_id": 20084,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10085,
+    "hadm_id": 20085,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10086,
+    "hadm_id": 20086,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10086,
+    "hadm_id": 20086,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10086,
+    "hadm_id": 20086,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10087,
+    "hadm_id": 20087,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10088,
+    "hadm_id": 20088,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10088,
+    "hadm_id": 20088,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10089,
+    "hadm_id": 20089,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10089,
+    "hadm_id": 20089,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10090,
+    "hadm_id": 20090,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10090,
+    "hadm_id": 20090,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10091,
+    "hadm_id": 20091,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10091,
+    "hadm_id": 20091,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10092,
+    "hadm_id": 20092,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10092,
+    "hadm_id": 20092,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10092,
+    "hadm_id": 20092,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10093,
+    "hadm_id": 20093,
+    "icd9_code": "G93.1",
+    "short_title": "Anoxic brain damage",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10094,
+    "hadm_id": 20094,
+    "icd9_code": "I21.9",
+    "short_title": "Acute myocardial infarction",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10094,
+    "hadm_id": 20094,
+    "icd9_code": "E11.9",
+    "short_title": "Type 2 diabetes mellitus",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10095,
+    "hadm_id": 20095,
+    "icd9_code": "N18.9",
+    "short_title": "Chronic kidney disease",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10095,
+    "hadm_id": 20095,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10095,
+    "hadm_id": 20095,
+    "icd9_code": "K92.2",
+    "short_title": "Gastrointestinal hemorrhage",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10096,
+    "hadm_id": 20096,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10096,
+    "hadm_id": 20096,
+    "icd9_code": "J44.9",
+    "short_title": "COPD",
+    "seq_num": 2
+  },
+  {
+    "subject_id": 10096,
+    "hadm_id": 20096,
+    "icd9_code": "A41.9",
+    "short_title": "Sepsis, unspecified",
+    "seq_num": 3
+  },
+  {
+    "subject_id": 10097,
+    "hadm_id": 20097,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10098,
+    "hadm_id": 20098,
+    "icd9_code": "I10",
+    "short_title": "Essential hypertension",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10099,
+    "hadm_id": 20099,
+    "icd9_code": "I50.9",
+    "short_title": "Heart failure",
+    "seq_num": 1
+  },
+  {
+    "subject_id": 10099,
+    "hadm_id": 20099,
+    "icd9_code": "J18.9",
+    "short_title": "Pneumonia",
+    "seq_num": 2
+  }
+]
