@@ -1,0 +1,90 @@
+\documentclass[12pt,a4paper]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{cite}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+% Title and Author Information
+\title{Biomedical Retrieval-Augmented Generation: A Comprehensive Study}
+\author{Research Team}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This paper presents a comprehensive study on biomedical retrieval-augmented generation (RAG) systems. We explore the effectiveness of RAG approaches in the biomedical domain, analyzing various metrics including accuracy, retrieval performance, and overall system efficiency. Our results demonstrate significant improvements in question-answering tasks when combining retrieval mechanisms with large language models.
+\end{abstract}
+
+\section{Introduction}
+Retrieval-augmented generation (RAG) has emerged as a powerful technique for enhancing the capabilities of large language models by incorporating external knowledge sources. In the biomedical domain, where accuracy and up-to-date information are critical, RAG systems offer promising solutions for information retrieval and question-answering tasks.
+
+\section{Methodology}
+Our study employs a systematic approach to evaluate RAG systems in the biomedical context. We utilize multiple datasets and evaluation metrics to assess performance across various dimensions.
+
+\subsection{Dataset}
+We leverage publicly available biomedical question-answering datasets to conduct our experiments.
+
+\subsection{Evaluation Metrics}
+We evaluate our system using standard metrics including accuracy, precision, recall, and F1-score.
+
+\section{Results}
+
+\subsection{Performance Analysis}
+Figure~\ref{fig:heatmap} presents a heatmap visualization of the correlation between different evaluation metrics.
+
+\begin{figure}[h]
+    \centering
+    \input{figures/heatmap.tex}
+    \caption{Heatmap showing correlation between evaluation metrics.}
+    \label{fig:heatmap}
+\end{figure}
+
+Figure~\ref{fig:scatter} illustrates the relationship between retrieval accuracy and generation quality.
+
+\begin{figure}[h]
+    \centering
+    \input{figures/scatter.tex}
+    \caption{Scatter plot of retrieval accuracy vs. generation quality.}
+    \label{fig:scatter}
+\end{figure}
+
+\subsection{ROC Analysis}
+Figure~\ref{fig:auc} displays the ROC curve and AUC scores for our classification tasks.
+
+\begin{figure}[h]
+    \centering
+    \input{figures/auc.tex}
+    \caption{ROC curve with AUC scores for model performance.}
+    \label{fig:auc}
+\end{figure}
+
+\subsection{System Architecture}
+Figure~\ref{fig:pipeline} shows the overall architecture of our RAG pipeline.
+
+\begin{figure}[h]
+    \centering
+    \input{figures/pipeline.tex}
+    \caption{System pipeline architecture for biomedical RAG.}
+    \label{fig:pipeline}
+\end{figure}
+
+\section{Discussion}
+Our results indicate that RAG systems significantly improve performance on biomedical question-answering tasks. The combination of retrieval and generation mechanisms provides both accuracy and contextual understanding.
+
+\section{Conclusion}
+This study demonstrates the effectiveness of retrieval-augmented generation in the biomedical domain. Future work will explore more sophisticated retrieval mechanisms and larger-scale evaluations.
+
+\bibliographystyle{plain}
+\bibliography{refs}
+
+\end{document}
